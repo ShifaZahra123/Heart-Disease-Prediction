@@ -15,13 +15,13 @@ This Flask-based web application predicts the **10-year risk of heart disease** 
 Users can input health metrics such as cholesterol, blood pressure, smoking status, and more — and get an instant prediction about heart disease risk.
 
 ---
-## 🔮 Demo WorkFlow
-Sample_Workflow[1].png
 ## 🔮 Demo
 
 📁 **Local Server:** http://localhost:5000
 
 ---
+## Sample Application Workflow
+![Workflow](Sample_Workflow[1].png)****
 
 ## 📊 Model Performance Comparison
 
