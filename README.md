@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction System
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Framework-Flask-lightgrey)](https://flask.palletsprojects.com/)
 [![scikit-learn](https://img.shields.io/badge/ML%20Library-scikit--learn-yellowgreen)](https://scikit-learn.org/)
 [![Model](https://img.shields.io/badge/Model-RandomForestClassifier-brightgreen)](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
